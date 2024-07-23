@@ -23,10 +23,11 @@ Use: SONG DOWNLOADER)_
 ```
 https://gist.github.com/Dot-ser/3cf8df88bbb5ebce6352a20a9a210044
 ```
-### _4.CEDIT_
-_RANDOM EMOJI, 
-Use: TEXT EDIT)_
+### _4.BARD_
+_AI, 
+Use: IT's A AI CHATBOT)_
 ```
-https://gist.github.com/Dot-ser/1724d36081d320d70844d3acf73656bc
+https://gist.github.com/Dot-ser/6d465e0a646e59f44c1d865d9f282b29
 ```
+
 ###### With ❤️ By DOT_007
