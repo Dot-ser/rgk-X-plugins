@@ -1,6 +1,6 @@
 ![alt text](https://te.legra.ph/file/9a039801e1fbb63080dc3.jpg)
 ### _Plugins List for Raganork-md_
-###### _CONTACT:_
+###### _Special THanks @horrid:_
 
 ###### _Installation : ``` .install {pluginurl}```_
 
