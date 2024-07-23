@@ -1,1 +1,32 @@
-# rgk-X-DOT007-plugins-
+![alt text](https://te.legra.ph/file/9a039801e1fbb63080dc3.jpg)
+### _Plugins List for Raganork-md_
+###### _CONTACT:_
+
+###### _Installation : ``` .install {pluginurl}```_
+
+<!-- PLUGIN LIST-->
+### _1.META AI_
+_FREE AI, 
+Use: AI)_
+```
+https://gist.github.com/Dot-ser/5480b8d34eaed06661bf9976c2229d4c
+```
+### _2.QR_
+_QR MAKER, 
+Use: CREATE QR WITH TEXT)_
+```
+https://gist.github.com/Dot-ser/09f4a7ab0a5df8c594eefd6df25a8141
+```
+### _3.SING_
+_DOWNLOAD, 
+Use: SONG DOWNLOADER)_
+```
+https://gist.github.com/Dot-ser/3cf8df88bbb5ebce6352a20a9a210044
+```
+### _4.CEDIT_
+_RANDOM EMOJI, 
+Use: TEXT EDIT)_
+```
+https://gist.github.com/Dot-ser/1724d36081d320d70844d3acf73656bc
+```
+###### With ❤️ By DOT_007
