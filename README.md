@@ -35,5 +35,10 @@ Use: FREE CHATGPT4 )_
 ```
 https://gist.github.com/Dot-ser/6d465e0a646e59f44c1d865d9f282b29
 ```
-
+### _5.cedit_
+_emoji, 
+Use: BOT WILL EDIT TEXT WITH EMOJI ANIMATION FOR 30 SEC )_
+```
+https://gist.github.com/Dot-ser/1724d36081d320d70844d3acf73656bc
+```
 ###### With ❤️ By DOT_007
