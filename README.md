@@ -27,7 +27,7 @@ https://gist.github.com/Dot-ser/3cf8df88bbb5ebce6352a20a9a210044
 _AI, 
 Use: IT's A AI CHATBOT)_
 ```
-https://gist.github.com/Dot-ser/6d465e0a646e59f44c1d865d9f282b29
+https://gist.github.com/Dot-ser/ddbd0e203f5a251d355023ab5706e451
 ```
 ### _5.cgpt4_
 _gpt4, 
