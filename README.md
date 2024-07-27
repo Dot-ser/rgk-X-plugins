@@ -33,7 +33,7 @@ https://gist.github.com/Dot-ser/6d465e0a646e59f44c1d865d9f282b29
 _gpt4, 
 Use: FREE CHATGPT4 )_
 ```
-https://gist.github.com/Dot-ser/cce927f9bccefe5f12237e98d9144e3d/
+https://gist.github.com/Dot-ser/6c4c7042769b038d18ec8cf8835368e6
 ```
 ### _5.cedit_
 _emoji, 
