@@ -9,7 +9,7 @@
 _FREE AI, 
 Use: AI)_
 ```
-https://gist.github.com/Dot-ser/5480b8d34eaed06661bf9976c2229d4c
+https://gist.github.com/Dot-ser/94edd6d5cab6332bed1dc77f31c7ce27
 ```
 ### _2.QR_
 _QR MAKER, 
