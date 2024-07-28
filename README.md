@@ -41,4 +41,11 @@ Use: BOT WILL EDIT TEXT WITH EMOJI ANIMATION FOR 30 SEC )_
 ```
 https://gist.github.com/Dot-ser/1724d36081d320d70844d3acf73656bc
 ```
+
+### _5.ly_
+_Song Lyrics search & find, 
+Use: Lyrics search & find )_
+```
+https://gist.github.com/Dot-ser/f531c1f51f23411b6837012ed44f7fbe
+```
 ###### With ❤️ By DOT_007
