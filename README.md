@@ -42,7 +42,7 @@ Use: BOT WILL EDIT TEXT WITH EMOJI ANIMATION FOR 30 SEC )_
 https://gist.github.com/Dot-ser/1724d36081d320d70844d3acf73656bc
 ```
 
-### _5.ly_
+### _6.ly_
 _Song Lyrics search & find, 
 Use: Lyrics search & find )_
 ```
